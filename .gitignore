@@ -19,3 +19,10 @@
 
 # Go workspace file
 go.work
+
+
+# Local dev 
+*.env
+Makefile
+tmp/*
+.air.toml
