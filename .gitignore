@@ -26,3 +26,4 @@ go.work
 Makefile
 tmp/*
 .air.toml
+tailwind.config.js
